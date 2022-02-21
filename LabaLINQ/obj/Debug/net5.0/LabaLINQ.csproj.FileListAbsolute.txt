@@ -1,0 +1,16 @@
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\bin\Debug\net5.0\LabaLINQ.exe
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\bin\Debug\net5.0\LabaLINQ.deps.json
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\bin\Debug\net5.0\LabaLINQ.runtimeconfig.json
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\bin\Debug\net5.0\LabaLINQ.runtimeconfig.dev.json
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\bin\Debug\net5.0\LabaLINQ.dll
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\bin\Debug\net5.0\ref\LabaLINQ.dll
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\bin\Debug\net5.0\LabaLINQ.pdb
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\LabaLINQ.csproj.AssemblyReference.cache
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\LabaLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\LabaLINQ.AssemblyInfoInputs.cache
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\LabaLINQ.AssemblyInfo.cs
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\LabaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\LabaLINQ.dll
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\ref\LabaLINQ.dll
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\LabaLINQ.pdb
+C:\Users\nicky\RiderProjects\LabaLINQ\LabaLINQ\obj\Debug\net5.0\LabaLINQ.genruntimeconfig.cache
